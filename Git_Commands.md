@@ -25,4 +25,6 @@ git pull
    - it will add new file into local from repository.
 git remote add origin <httpp link>
    - To add git repository loation in your local.
-git remote set-url origin git https://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@github.com/Tanima-purwar/Shell-Scripting-for-DevOps.git
+git remote set-url origin https://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@github.com/Tanima-purwar/Shell-Scripting-for-DevOps.git
+git remote -v
+   - To check url of your repository
