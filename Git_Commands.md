@@ -28,4 +28,9 @@ git remote add origin <httpp link>
 git remote set-url origin https://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@github.com/Tanima-purwar/Shell-Scripting-for-DevOps.git
 git remote -v
    - To check url of your repository
-Hey new changes
+git branch "name"
+   - To create new branch
+git branch 
+   - To check branch list and current branch.
+git switch "branch name"
+   - To switch in different branch
