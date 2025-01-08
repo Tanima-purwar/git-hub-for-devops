@@ -13,6 +13,8 @@ git commit -m "added test.py file in git"
    - to pass a message after adding file so that we know why and what we added in git
 git restore filename
    - if you made any changes in a file and want to revert just use this command
+git restore <file name>
+   - restore deleted files.
 git restore --staged <file name>
    - used to restore previous status or unstage the file.
 git colne <URL of Git repository>
@@ -21,3 +23,6 @@ git push
    - it will push new file into github repository that you added from local.
 git pull
    - it will add new file into local from repository.
+git remote add origin <httpp link>
+   - To add git repository loation in your local.
+git remote set-url origin git https://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@github.com/Tanima-purwar/Shell-Scripting-for-DevOps.git
